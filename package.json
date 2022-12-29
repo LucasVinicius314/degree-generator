@@ -19,6 +19,8 @@
   "devDependencies": {
     "@types/node": "^18.11.9",
     "@types/webfontloader": "^1.6.35",
+    "@types/webmidi": "^2.0.6",
+    "@typescript/lib-dom": "npm:@types/web",
     "@vitejs/plugin-vue": "^3.0.3",
     "@vue/eslint-config-typescript": "^11.0.0",
     "eslint": "^8.22.0",
